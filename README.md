@@ -6,4 +6,4 @@
 
 ・512 x 512 アイコン画像のサンプルは↓
 <br>
-<img src ="https://user-images.githubusercontent.com/1670181/45862091-243f8500-bdab-11e8-8461-071f2f936ab2.png" width=300>
+<img src ="https://user-images.githubusercontent.com/1670181/58750698-a5b9ec00-84d0-11e9-8c1c-2c612db8178d.png" width=300>
